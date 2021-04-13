@@ -1,10 +1,10 @@
 # JavaScript Basics: Data Types
 
-![JavaScript Basics - Data types](images/webdev101-js-datatypes.png)
+![JavaScript Basics - Data types](/sketchnotes/webdev101-js-datatypes.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
-[Pre-lecture quiz](.github/pre-lecture-quiz.md)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7)
 
 This lesson covers the basics of JavaScript, the language that provides interactivity on the web.
 
@@ -176,7 +176,7 @@ Booleans can be only two values: `true` or `false`. Booleans can help make decis
 - `let myTrueBool = true`
 - `let myFalseBool = false`
 
-✅ A variable can be considered 'truthy' if it evaluates to a boolean `true`. Interestingly, in JavaScript, [all values are truthy unless defined as falsy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy).
+✅ A variable can be considered 'truthy' if it evaluates to a boolean `true`. Interestingly, in JavaScript, [all values are truthy unless defined as falsy](https://developer.mozilla.org/docs/Glossary/Truthy).
 
 ---
 
@@ -185,7 +185,7 @@ Booleans can be only two values: `true` or `false`. Booleans can help make decis
 JavaScript is notorious for its surprising ways of handling datatypes on occasion. Do a bit of research on these 'gotchas'. For example: case sensitivity can bite! Try this in your console: `let age = 1; let Age = 2; age == Age` (resolves `false` -- why?). What other gotchas can you find?
 
 ## Post-Lecture Quiz
-[Post-lecture quiz](.github/post-lecture-quiz.md)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8)
 
 ## Review & Self Study
 

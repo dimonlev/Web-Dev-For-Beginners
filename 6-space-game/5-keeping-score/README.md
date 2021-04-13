@@ -2,7 +2,7 @@
 
 ## Pre-Lecture Quiz
 
-[Pre-lecture quiz](.github/pre-lecture-quiz.md)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/37)
 
 In this lesson, you'll learn how to add scoring to a game and calculate lives.
 
@@ -17,7 +17,7 @@ ctx.textAlign = "right";
 ctx.fillText("show this on the screen", 0, 0);
 ```
 
-✅ Read more about [how to add text to a canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text), and feel free to make yours look fancier!
+✅ Read more about [how to add text to a canvas](https://developer.mozilla.org/docs/Web/API/Canvas_API/Tutorial/Drawing_text), and feel free to make yours look fancier!
 
 ## Life, as a game concept
 
@@ -178,7 +178,7 @@ Your code is almost complete. Can you envision your next steps?
 
 ## Post-Lecture Quiz
 
-[Post-lecture quiz](.github/post-lecture-quiz.md)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/38)
 
 ## Review & Self Study
 
